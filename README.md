@@ -1,2 +1,4 @@
 # Mani
-Bsc Computer science 
+Bsc Computer science -1
+devops
+
